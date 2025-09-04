@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java File/Java File.iml" filepath="$PROJECT_DIR$/Java File/Java File.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-2.0.iml" filepath="$PROJECT_DIR$/.idea/Java-2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
     </modules>
   </component>
 </project>
